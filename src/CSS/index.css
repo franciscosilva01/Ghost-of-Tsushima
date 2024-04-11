@@ -144,8 +144,11 @@ header {
 
 .title {
   text-align: center;
-  font-weight: 200;
   color: #2e2d2d;
+}
+
+.title h1 {
+  font-weight: 500;
 }
 
 #about {
